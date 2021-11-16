@@ -75,6 +75,7 @@ module.exports = {
           children: [
             '/',
             '/discord.md',
+            '/bedrock.md',
           ]
         },
         {
@@ -104,6 +105,7 @@ module.exports = {
           children: [
             '/',
             '/discord.md',
+            '/bedrock.md',
           ]
         },
         {
@@ -149,6 +151,7 @@ module.exports = {
           children: [
             '/',
             '/discord.md',
+            '/bedrock.md',
           ]
         },
         {
