@@ -31,7 +31,7 @@ module.exports = {
    */
   themeConfig: {
     smoothScroll: true,
-    repo: 'Macckkan/EkstammenWiki',
+    repo: 'Ekstammen/wiki',
     docsDir: 'docs',
     editLink: true,
     editLinkText: 'Redigera Dokument',
