@@ -6,8 +6,6 @@ Tanken med denna wikin är att vi ska kunna samla all nödvändig information so
 Vi ser hela projektet Ekstammen som något vi gör tillsammans med vår community och därför försöker vi involvera communityn i allt vi gör genom att till exempel göra det möjligt för alla att ändra/lägga till/ta bort saker i denna wikin.  
 
 ## Adresser
-### Ip 
-mc.ekstammen.nu  
+Ip: *mc.ekstammen.nu*  
 
-### Bedrock edition
-mc.ekstammen.nu:19132
+Bedrock edition: *mc.ekstammen.nu:19132*
