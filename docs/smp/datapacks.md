@@ -15,13 +15,13 @@ Varje grav finns kvar i 10 minuter från dödsfallet.
 Om chunken är inladdad så kommer graven försvinna efter dessa 10 minuter och man kan inte längre återfå sina föremål.  
 :::
 
-### Plats
+## Plats
 Koordinaterna till graven får man i chatten vid dödsfallet och man kan även se dem i TAB-listan.
 ::: tip
 Ta en printscreen eller skriv ner koordinaterna så du har sparat platsen med dina viktiga föremål om du dör fler gånger.
 :::
 
-### Dödsorsaker & gravplats
+## Dödsorsaker & gravplats
 * Om du dör i void *(world_the_end)* så kommer din grav spawna på ett gräsblock precis ovanför void. Denna kan man sedan gå/flyga till för att få tillbaka sina saker.
 * Om du dör i luften kommer din grav hamna på marken.
 * Om du dör i lava kommer din grav hamna på ytan.
@@ -29,14 +29,14 @@ Ta en printscreen eller skriv ner koordinaterna så du har sparat platsen med di
 * Om du dör inuti ett block kommer din grav hamna ovanpå detta block.
 * Om du dör på samma plats som en annan grav kommer din grav hamna ovanpå den.
 
-### Hämta föremål
+## Hämta föremål
 När du har hittat din grav så kan du högerklicka på den med en tom hand. Då släpps föremålen fria och du kan plocka upp dem.  
 Om du hukar dig samtidigt som du högerklickar på graven så kan endast du plocka upp föremålen.
 
-### Höjdgränser
+## Höjdgränser
 Höjdgränsen har expanderats med 64 blocks upp och 64 blocks ner.  
 Maxhöjd uppåt: Y=319  
 Maxgräns nedåt: Y=-64
 
-### Föremål
+## Föremål
 Med detta kan man crafta [bundle](https://minecraft.fandom.com/wiki/Bundle)

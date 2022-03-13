@@ -28,7 +28,7 @@ Nedan finns lite tips
 
 ## Tomter
 
-#### Bonustomter
+### Bonustomter
 Den första bonustomten du köper kommer att kosta din stad 500 mynt.  
 Där efter kommer priset öka med 1% för varje bonustomt ni köper till staden.
 
@@ -38,7 +38,7 @@ Tilldela ranker till spelare du litar på till 100%
 :::
 Dessa stadsranker finns på servern  
 
-#### Assistant
+### Assistant
 Assistenter betalar ingen skatt till staden  
 Denna rank är ger man till de som ska kunna hjälpa till i staden.  
 
@@ -50,7 +50,7 @@ Kommandon:
 - /plot * | Alla plot kommandon
 - /jail (nummer) (invånare) | Fängsla en kriminell
 
-#### Assistant+
+### Assistant+
 Denna rank har samma fördelar som ovan men med ett extra kommando
 
 - /t withdraw (summa) | Ta ut en summa från stadens bank  

@@ -1,10 +1,10 @@
-# Koppla ihop ditt Discord konto med Minecraft
+# DiscordSRV
 Genom att koppla ihop dina konton så kommer du få samma namn på discord som du har på servern.  
 Detta hjälper t.ex. staff när du skapar en ticket.  
 
 Du får också tillgång till våra olika utlottningar som vi har
 
-### Så här gör du
+## Så här gör du
 1. Skriv `/discord link` i chatten  
 <img src="../.vuepress/public/images/discord/discord-link.png" 
      width="500" />
