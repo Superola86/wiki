@@ -52,6 +52,10 @@ module.exports = {
         link: '/',
       },
       {
+        text: 'Lands',
+        link: '/lands/',
+      },
+      {
         text: 'Towny',
         link: '/towny/',
       },
@@ -76,44 +80,33 @@ module.exports = {
             '/',
             '/discord.md',
             '/bedrock.md',
-          ]
-        },
-        {
-          text: 'Server nätverk',
-          children: [
             '/vote.md',
             '/ranker.md',
             '/tokens.md',
           ]
         },
         {
-          text: 'Towny',
+          text: 'Lands',
           children: [
-            '/towny/',
+            '/lands/',
+            '/lands/företag.md',
+            '/lands/casino.md',
+            '/lands/playershop.md',
+            '/lands/crates.md',
+            '/lands/invånare.md',
+            '/lands/städer.md',
+            '/lands/ranker.md',
+            '/lands/flyga.md',
+            '/lands/önskebrunn.md',
+            '/lands/fos.md',
           ]
         },
         {
           text: 'SMP',
           children: [
             '/smp/',
-          ]
-        },
-      ],
-      '/towny/': [
-        {
-          text: 'Hem',
-          children: [
-            '/',
-            '/discord.md',
-            '/bedrock.md',
-          ]
-        },
-        {
-          text: 'Server nätverk',
-          children: [
-            '/vote.md',
-            '/ranker.md',
-            '/tokens.md',
+            '/smp/regler.md',
+            '/smp/datapacks.md',
           ]
         },
         {
@@ -126,62 +119,19 @@ module.exports = {
           ]
         },
         {
-          text: 'Funktioner & Plugins',
+          text: 'Plugins',
           children: [
-            '/towny/plugins/towny.md',
-            '/towny/plugins/discord.md',
-            '/towny/plugins/chestshop.md',
-            '/towny/plugins/cmi.md',
-            '/towny/plugins/jobs.md',
-            '/towny/plugins/lwc.md',
-            '/towny/plugins/mobfarmmanager.md',
-            '/towny/plugins/playershopgui.md',
-          ]
-        },
-        {
-          text: 'SMP',
-          children: [
-            '/smp/',
+            '/plugins/towny.md',
+            '/plugins/discord.md',
+            '/plugins/chestshop.md',
+            '/plugins/cmi.md',
+            '/plugins/jobs.md',
+            '/plugins/lwc.md',
+            '/plugins/mobfarmmanager.md',
+            '/plugins/playershopgui.md',
           ]
         },
       ],
-      '/smp/': [
-        {
-          text: 'Hem',
-          children: [
-            '/',
-            '/discord.md',
-            '/bedrock.md',
-          ]
-        },
-        {
-          text: 'Server nätverk',
-          children: [
-            '/vote.md',
-            '/ranker.md',
-            '/tokens.md',
-          ]
-        },
-        {
-          text: 'Towny',
-          children: [
-            '/towny/',
-          ]
-        },
-        {
-          text: 'SMP',
-          children: [
-            '/smp/',
-            '/smp/regler.md',
-          ]
-        },
-        {
-          text: 'Funktioner & Datapacks',
-          children: [
-            '/smp/datapacks.md',
-          ]
-        }
-      ]
     }
   },
 
