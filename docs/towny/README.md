@@ -14,7 +14,7 @@ Den hittar du antingen genom portalen i spawn eller genom att skriva `/warp gall
 
 I denna kan du köpa nästan allt du kan behöva.  
 
-### Öppna affären
+## Öppna affären
 Prata med NPC:n som står vid disken för att öppna affären.  
 <img src="../.vuepress/public/images/servershop/Servershop.png" 
      height="250" />

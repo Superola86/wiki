@@ -4,7 +4,7 @@
 Epic ranken kan man få genom Epic kistan i spawn.  
 ![epic](../.vuepress/public/images/epiclicense.png)
 
-### Fördelar
+## Fördelar
 - Sitt på trappor 
   - *(antingen genom att högerklicka på dem eller med kommandot nedan)* 
 - Sortera dina kistor enkelt  
