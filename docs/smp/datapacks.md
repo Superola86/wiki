@@ -1,4 +1,4 @@
-# Datapacks
+# Gravar
 
 ## Graves
 När man dör skapas en grav på platsen.  
@@ -32,10 +32,6 @@ Ta en printscreen eller skriv ner koordinaterna så du har sparat platsen med di
 ### Hämta föremål
 När du har hittat din grav så kan du högerklicka på den med en tom hand. Då släpps föremålen fria och du kan plocka upp dem.  
 Om du hukar dig samtidigt som du högerklickar på graven så kan endast du plocka upp föremålen.
-
-## Caves & Cliffs preview
-På SMP finns detta installerat.  
-Detta är ett officiellt datapack från mojang och innehåller experiment funktioner.  
 
 ### Höjdgränser
 Höjdgränsen har expanderats med 64 blocks upp och 64 blocks ner.  

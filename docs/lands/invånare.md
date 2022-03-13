@@ -1,0 +1,1 @@
+# Invånare i spawn
