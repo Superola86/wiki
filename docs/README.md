@@ -6,6 +6,7 @@ Vi ser hela projektet Ekstammen som något vi gör tillsammans med vår communit
 
 ## Adresser
 Ip: *mc.ekstammen.nu*  
-Towny: *towny.ekstammen.nu*
+Towny: *towny.ekstammen.nu*  
+SMP: *smp.ekstammen.nu*  
 
 Bedrock edition: *mc.ekstammen.nu:19132*
