@@ -6,11 +6,11 @@ Tokens är inget du köper för riktiga pengar utan något du får som tack och 
 ## På följande sätt kan man få tokens
 - Vara en aktiv spelare på servern *(återkommande)*
 	- Var 30e minut får man 50 tokens
-	- Var 24e timme får man 200 tokens
-	- Efter 7 dagar får man 300 tokens
 - Rösta *(glöm inte att vara online)*
 	- När man röstar får man 200 tokens
+- Streama när du spelar
+	- Varje streamer får 50 tokens extra varje halvtimme man är live.
 - Kolla på någon av våra [streamers](https://ekstammen.nu/streamers) när dom är live
-	- Var med i utlottning av 100 tokens var 10e minut
+	- När man tittar på en stream får man 50 tokens extra varje halvtimme.
 - Tävlingar
  	- Titt som tätt kommer tävlingar och utlottningar. Allt syns på Discord.
